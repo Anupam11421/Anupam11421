@@ -65,14 +65,6 @@
 
 ---
 
-## 🌐 My GitHub Portfolio Website
-
-> Visit: [https://anupam11421.github.io/](https://anupam11421.github.io/) 💼
-
-Powered by GitHub Pages from this very README — it's like a personal homepage.
-
----
-
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:tiwarianupam11421@gmail.com)
